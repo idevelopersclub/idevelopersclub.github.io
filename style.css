@@ -89,7 +89,6 @@ button {
   background: linear-gradient(to right,#8c9fff,#8bffef);
   opacity: 50%;
   border-radius: 2dvi;
-  height: 7dvi;
 }
 button:hover {
   opacity: 100%;
